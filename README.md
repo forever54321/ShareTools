@@ -43,6 +43,8 @@ A single-file PowerShell GUI application for sharing folders and printers across
 
 ## Screenshot
 
+![ShareTools Launch Screen](screenshot.png)
+
 The app uses a dark-themed Windows Forms GUI with a launch screen, host panel, and client panel — all navigated with clickable buttons.
 
 ## License
